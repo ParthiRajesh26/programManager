@@ -2,7 +2,7 @@
 PROGRAM STATUS REPORT
 --------------------------------------------------
 Program Name   : Kanban Board 1
-Program Key    : 1
+Program Key    : KAN-BOARD-1
 Overall Health : Off Track
 Completion     : 20%
 --------------------------------------------------
@@ -29,7 +29,7 @@ Status    : To Do
 Assignee  : N/A
 Due Date  : 2026-01-16
 --------------------------------------------------
-KAN-14 | Integrate frontend with authentication API
+KAN-14 | Integrate frontend with authentication API 
 Status    : In Progress
 Assignee  : Parthi Lingam
 Due Date  : 2026-01-13
@@ -39,7 +39,7 @@ Status    : Done
 Assignee  : Parthi Lingam
 Due Date  : N/A
 --------------------------------------------------
-KAN-12 | Implement backend authentication
+KAN-12 | Implement backend authentication 
 Status    : To Do
 Assignee  : Parthi Lingam
 Due Date  : N/A
